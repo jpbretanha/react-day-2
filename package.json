@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "react-day-2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "help": "mdx-deck"
+  },
+  "devDependencies": {
+    "mdx-deck": "^2.0.9"
+  },
+  "dependencies": {
+    "styled-components": "^4.2.0",
+    "superbox": "^2.1.0"
+  }
+}
