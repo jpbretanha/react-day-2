@@ -1,1 +1,1 @@
-export { yellow as theme } from 'mdx-deck/themes'
+export { white as theme } from 'mdx-deck/themes'
